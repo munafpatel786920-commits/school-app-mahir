@@ -1,0 +1,6 @@
+{
+  "name": "Smart School Management System",
+  "description": "Comprehensive school administration system featuring student and teacher management, fee collection & receipts, examinations, report cards, daily attendance, timetables, certificates, and financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
